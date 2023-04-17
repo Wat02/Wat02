@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://wat02.github.io/Project-4/](https://wat02.github.io/Project-4/)
-
-- 📫 How to reach me **jovanjeremic7@gmail.com**
+- 👨‍💻 All of my projects are available at [https://wat02.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
