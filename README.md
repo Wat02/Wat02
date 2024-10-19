@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wat02&label=Profile%20views&color=0e75b6&style=flat" alt="wat02" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJs / Python**
 
-- 👨‍💻 All of my projects are available at [https://wat02.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio3-taupe.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
