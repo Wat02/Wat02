@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wat02&label=Profile%20views&color=0e75b6&style=flat" alt="wat02" /> </p>
 
-- 🌱 I’m currently learning **NodeJs / Python**
+- 🌱 I’m currently learning **Node.js / Python**
 
 - 👨‍💻 All of my projects are available at [https://portfolio3-taupe.vercel.app/)
 
