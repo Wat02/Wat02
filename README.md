@@ -31,10 +31,17 @@ Big on motion. Big on clean code. Big on meaningful digital work.
 
 ---
 
+## 📌 Featured Projects
+
+[![Watfolio](https://github-readme-stats.vercel.app/api/pin/?username=Wat02&repo=watfolio&theme=radical)](https://github.com/Wat02/watfolio)  
+[![TetraFlow](https://github-readme-stats.vercel.app/api/pin/?username=Wat02&repo=tetraflow&theme=radical)](https://github.com/Wat02/tetraflow)
+
+---
+
 ## 📊 GitHub Stats
 
-![Jovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovandev&show_icons=true&theme=radical&hide=prs&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovandev&layout=compact&theme=radical)
+![Jovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wat02&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wat02&layout=compact&theme=radical)
 
 ---
 
@@ -59,8 +66,8 @@ Ready to build something that *feels good and works even better*?
 
 ## 📫 Reach Me
 
-- 🌐 Portfolio: [watfolio.dev](https://www.watfolio.dev)
-- ✉️ Email: jovanjeremic7@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-watfolio.dev-000?style=flat&logo=vercel&logoColor=white)](https://www.watfolio.dev)
+[![Email](https://img.shields.io/badge/Email-jovanjeremic7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jovanjeremic7@gmail.com)
 
 ---
 
