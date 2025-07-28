@@ -39,8 +39,7 @@ Big on motion. Big on clean code. Big on meaningful digital work.
 ---
 
 ## 📊 GitHub Stats
-
-![Jovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wat02&show_icons=true&theme=radical&count_private=true)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wat02&layout=compact&theme=radical)
 
 ---
